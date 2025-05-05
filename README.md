@@ -7,11 +7,14 @@ Client ONT device
 
 IP Router: 192.168.100.1
 
-Username: Admin
+Username: Admin  
 Password: admin
 
-Username: Support
+Username: Support  
 Password: theworldinyourhand
 
-Username: telecomadmin
+Username: telecomadmin  
 Password: admintelecom
+
+APN:  
+The default password of WirelessNet is “eeeeeeee”. There are eight times “e”

@@ -5,3 +5,13 @@ Client ONT device
 
 ![image](https://github.com/user-attachments/assets/6b151459-8c27-4fe8-95fb-6974d899abb6)
 
+IP Router: 192.168.100.1
+
+Username: Admin
+Password: admin
+
+Username: Support
+Password: theworldinyourhand
+
+Username: telecomadmin
+Password: admintelecom
